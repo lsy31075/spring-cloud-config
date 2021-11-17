@@ -1,0 +1,9 @@
+#开发环境
+server:
+  port: 8084
+remote:
+  service:
+    url-list:
+      - http://localhost:8081/
+      - http://localhost:8080/
+      - http://localhost:8082/
